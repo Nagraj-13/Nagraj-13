@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 About Me<br>Hi, I'm Nagaraj Bhandare — a Full Stack Developer <br>passionate about building scalable web applications <br>and AI-driven products. I specialize in crafting robust <br>backend systems, intuitive frontends, and deploying <br>production-ready solutions that make an impact.<br><br>💡 I enjoy designing systems that balance performance, <br>scalability, and simplicity, and I’m constantly exploring <br>new technologies in web and AI development.<br><br>What I Do<br><br>Backend Development: Building RESTful and <br>microservice-based APIs using Node.js, Express, and FastAPI.<br><br>Frontend Engineering: Developing interactive UIs with React, <br>Next.js, and Tailwind CSS.<br><br>AI & Automation: Integrating LLMs, RAG pipelines, and data processing<br> into real-world applications.<br><br>Cloud & DevOps: Deploying apps using AWS, Docker, Vercel, <br>and Render.<br><br>
+👋 About Me<br>Hi, I'm Nagaraj Bhandare — a Full Stack Developer 
 🏆 Achievements<br><br>🥇 Winner – Smart India Hackathon (SIH 2024) for developing an innovative AI <br>solution for the Delhi Metro Rail Corporation (DMRC).
 
 
