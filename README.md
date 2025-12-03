@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 About Me<br>Hi, I'm Nagaraj Bhandare — a Full Stack Developer 
-🏆 Achievements<br><br>🥇 Winner – Smart India Hackathon (SIH 2024) for developing an innovative AI <br>solution for the Delhi Metro Rail Corporation (DMRC).
+🏆 Achievements<br><br>🥇 Winner – Smart India Hackathon (SIH 2024).
 
 
 ## 🌐 Socials:
