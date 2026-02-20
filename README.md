@@ -2,7 +2,7 @@
 Hi, I'm **Nagaraj** 👋<br>I'm a **Software Engineer (Fullstack | AI | Cloud)** passionate about building next-generation, scalable, and user-centric software solutions.<br><br>I work across modern technologies, frameworks, and architectures — with hands-on experience in **Next.js, React.js, Node.js, TypeScript, Python**, and cloud platforms like **AWS** and **Collify**.<br><br>I love integrating **AI-driven solutions**, clean design systems, and modern **DevOps** practices into everything I build.<br><br>📍 Based in Belagavi<br>📚 Always learning something new<br>✍️ Occasionally write shayaris<br>
 
 ## Portfolio: 
-**Portfolio:** [https://nrportfolio.vercel.app](https://nrportfolio.vercel.app)
+**Portfolio:** [https://nr13.1n](https://nr13.in)
 
 
 
