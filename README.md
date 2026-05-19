@@ -32,8 +32,6 @@ Hi, I'm **Nagaraj** 👋<br>I'm a **Software Engineer (Fullstack | AI | Cloud)**
 
 
 
-<h1 align="center">hey there 👋</h1>
-
 ###
 
 <br clear="both">
