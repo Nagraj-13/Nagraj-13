@@ -75,7 +75,7 @@ Software engineer based in **Belagavi, Karnataka** — focused on building scala
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution 
 
 <!-- After setting up the GitHub Action (see snake.yml), these images will load automatically -->
 <div align="center">
