@@ -22,7 +22,7 @@ Software engineer based in **Belagavi, Karnataka** — focused on building scala
 
 - 🔭 Working on AI-driven products with Next.js, Node.js & Python
 - ☁️ Experienced with AWS deployments, Docker, and CI/CD pipelines
-- 🧠 Exploring LLM integrations, vector DBs, and agent-based architectures  
+- 🧠 Exploring LLM integrations, vector DBs, and agent-based architectures
 - ✍️ Occasionally write shayaris
 
 ---
@@ -75,14 +75,15 @@ Software engineer based in **Belagavi, Karnataka** — focused on building scala
 
 ---
 
-### 🐾 Contribution Graph
+### 🐍 Contribution Snake
 
+<!-- After setting up the GitHub Action (see snake.yml), these images will load automatically -->
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nagraj-13/Nagraj-13/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nagraj-13/Nagraj-13/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Nagraj-13/Nagraj-13/output/pacman-contribution-graph.svg" width="95%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nagraj-13/Nagraj-13/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nagraj-13/Nagraj-13/output/github-contribution-grid-snake.svg">
+  <img alt="Snake contribution graph" src="https://raw.githubusercontent.com/Nagraj-13/Nagraj-13/output/github-contribution-grid-snake.svg" width="95%"/>
 </picture>
 
 </div>
