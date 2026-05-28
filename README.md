@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&text=Nagaraj%20Bhandare&fontSize=40&fontColor=e94560&animation=fadeIn&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=120&section=header&text=Nagaraj%20Bhandare&fontSize=40&fontColor=e94560&animation=fadeIn&fontAlign=50&fontAlignY=60" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=e94560&center=true&vCenter=true&width=600&lines=Fullstack+Engineer+%7C+AI+%7C+Cloud;Next.js+%7C+Node.js+%7C+TypeScript+%7C+Python;Building+things+that+actually+work.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=e94560&center=true&vCenter=true&width=600&lines=Fullstack+Engineer+%7C+AI+%7C+Cloud;Next.js+%7C+Node.js+%7C+Python;AWS+%7C+Docker+%7C+Kubernetes)](https://nr13.in)
 
 <p>
   <a href="https://nr13.in"><img src="https://img.shields.io/badge/Portfolio-nr13.in-e94560?style=flat-square&logo=vercel&logoColor=white"/></a>
@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-Software engineer based in **Belagavi, Karnataka** — focused on building scalable, production-ready full-stack and AI-integrated systems. I work across the entire stack: from pixel-precise UIs to distributed backends and cloud infrastructure.
+Software engineer based in **Belagavi, Karnataka** — focused on building scalable, production-ready full-stack and AI-integrated systems. I work across the entire stack: from pixel-precise UIs to distributed backends.
 
 - 🔭 Working on AI-driven products with Next.js, Node.js & Python
 - ☁️ Experienced with AWS deployments, Docker, and CI/CD pipelines
@@ -51,17 +51,19 @@ Software engineer based in **Belagavi, Karnataka** — focused on building scala
 
 ---
 
-### 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Nagraj-13&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Nagraj-13&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Nagraj-13&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Nagraj-13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nagraj-13&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=c9d1d9" height="160"/>
-&nbsp;
-<img src="https://nirzak-streak-stats.vercel.app/?user=Nagraj-13&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=e94560" height="160"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagraj-13&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9&layout=compact&langs_count=8" height="140"/>
-
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Nagraj-13&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
@@ -89,6 +91,10 @@ Software engineer based in **Belagavi, Karnataka** — focused on building scala
 </div>
 
 ---
+
+[![](https://komarev.com/ghpvc/?username=Nagraj-13&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">
 
