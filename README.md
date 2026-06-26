@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,50:0d1b2a,100:00d4aa&height=140&section=header&text=Nagaraj%20Bhandare&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=55&desc=Co-Founder%20%26%20CTO%20%7C%20Fullstack%20%26%20AI%20Engineer&descSize=18&descAlignY=78&descColor=00d4aa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0d1b2a,100:00d4aa&height=160&section=header&text=Nagaraj%20Bhandare&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=50&desc=Co-Founder%20%26%20CTO%20%7C%20Fullstack%20%26%20AI%20Engineer&descSize=18&descAlign=50&descAlignY=72&descColor=00d4aa" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=%24+whoami+--+Co-Founder+%40+Cipherion+Pvt+Ltd;%24+stack+--+Next.js+%7C+Node.js+%7C+Python+%7C+AWS;%24+building+--+CTX%2C+Kanso+UI%2C+RESTClient;%24+domain+--+AI+Agents+%7C+Fullstack+%7C+DevTools;%24+open_to+--+SWE+%7C+CTO+%7C+AI+Engineer+roles)](https://nr13.in)
 
@@ -295,7 +295,7 @@ An AI-powered legal assistance platform with a chatbot (Lawbot) for Indian law q
 
 <div align="center">
 
-![Education](https://img.shields.io/badge/B.E._Computer_Science_&_Engineering-Jain_College_of_Engineering_and_Research,_Belagavi-00d4aa?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Education](https://img.shields.io/badge/B.E._Computer_Science_&_Engineering-KLE_Technological_University,_Belagavi-00d4aa?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 </div>
 
@@ -424,4 +424,4 @@ current_focus:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4aa,50:00b4d8,100:0a0e1a&height=6&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:00b4d8,100:0a0e1a&height=80&section=footer" width="100%"/>
