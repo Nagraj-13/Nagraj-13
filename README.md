@@ -1,391 +1,427 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:16130e&height=160&text=Nagaraj%20Bhandare&fontSize=46&fontColor=D4A574&animation=fadeIn&fontAlign=50&fontAlignY=52&desc=Co-Founder%20%26%20CTO%20%C2%B7%20API%20Security%20%C2%B7%20AI%20Infrastructure%20%C2%B7%20Full%20Stack&descSize=15&descAlignY=76&descColor=c8c8c8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e1a,50:0d1b2a,100:00d4aa&height=140&section=header&text=Nagaraj%20Bhandare&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=55&desc=Co-Founder%20%26%20CTO%20%7C%20Fullstack%20%26%20AI%20Engineer&descSize=18&descAlignY=78&descColor=00d4aa" width="100%"/>
 
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=D4A574&center=true&vCenter=true&width=680&lines=Co-Founder+%26+CTO+%40+Cipherion;Building+API+Security+%26+AI+Infrastructure;Next.js+%7C+TypeScript+%7C+Python+%7C+Node.js;Shipped+CTX+%7C+Kanso+UI+%7C+Flash+CLI;Open+to+SDE+%2F+AI+Engineering+Roles)](https://nr13.in)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=%24+whoami+--+Co-Founder+%40+Cipherion+Pvt+Ltd;%24+stack+--+Next.js+%7C+Node.js+%7C+Python+%7C+AWS;%24+building+--+CTX%2C+Kanso+UI%2C+RESTClient;%24+domain+--+AI+Agents+%7C+Fullstack+%7C+DevTools;%24+open_to+--+SWE+%7C+CTO+%7C+AI+Engineer+roles)](https://nr13.in)
 
 </div>
 
 ---
-
-### `$ cat badges.info`
 
 <div align="center">
 
-![Location](https://img.shields.io/badge/Belagavi%2C%20Karnataka-India-D4A574?style=flat-square&logo=googlemaps&logoColor=0d0d0d&labelColor=0d0d0d)
-![Role](https://img.shields.io/badge/Co--Founder%20%26%20CTO-Cipherion%20Pvt%20Ltd-D4A574?style=flat-square&logo=target&logoColor=0d0d0d&labelColor=0d0d0d)
-![Stack](https://img.shields.io/badge/TypeScript%20%7C%20Python%20%7C%20Next.js-Full%20Stack-D4A574?style=flat-square&logo=typescript&logoColor=0d0d0d&labelColor=0d0d0d)
+![Degree](https://img.shields.io/badge/B.E._Computer_Science-KLE_Tech_University-00d4aa?style=flat-square&logo=graduation-cap&logoColor=white)
+![Location](https://img.shields.io/badge/📍_Belagavi,_Karnataka-India-00b4d8?style=flat-square)
+![Experience](https://img.shields.io/badge/Experience-2+_Years-7ee8d0?style=flat-square&logo=clockify&logoColor=white)
 
 </div>
-
----
-
-### `$ cat links.sh`
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-nr13.in-D4A574?style=for-the-badge&logo=vercel&logoColor=0d0d0d&labelColor=0d0d0d)](https://nr13.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-D4A574?style=for-the-badge&logo=linkedin&logoColor=0d0d0d&labelColor=0d0d0d)](https://linkedin.com/in/nagaraj-bhandare-b4145b25a)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-D4A574?style=for-the-badge&logo=gmail&logoColor=0d0d0d&labelColor=0d0d0d)](mailto:nagrajy131200350@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Nagraj--13-D4A574?style=for-the-badge&logo=github&logoColor=0d0d0d&labelColor=0d0d0d)](https://github.com/Nagraj-13)
-[![X](https://img.shields.io/badge/X-Follow-D4A574?style=for-the-badge&logo=x&logoColor=0d0d0d&labelColor=0d0d0d)](https://x.com/_nagraj_13)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nr13.in-00d4aa?style=for-the-badge&logo=vercel&logoColor=white)](https://nr13.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagaraj-bhandare-b4145b25a)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-00d4aa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagrajy131200350@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@Nagraj--13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nagraj-13)
+[![X](https://img.shields.io/badge/X-@_nagraj_13-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_nagraj_13)
+[![Instagram](https://img.shields.io/badge/Instagram-@_nagraj_13_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nagraj_13_)
 
 </div>
 
 ---
-
-### `$ cat profile_stats.sh`
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nagraj-13&color=D4A574&style=flat-square&label=PROFILE+VIEWS)
-[![GitHub Followers](https://img.shields.io/github/followers/Nagraj-13?color=D4A574&style=flat-square&logo=github&label=FOLLOWERS&labelColor=0d0d0d)](https://github.com/Nagraj-13?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Nagraj-13?color=D4A574&style=flat-square&logo=github&label=TOTAL+STARS&affiliations=OWNER&labelColor=0d0d0d)](https://github.com/Nagraj-13)
+[![Profile Views](https://komarev.com/ghpvc/?username=Nagraj-13&color=00d4aa&style=flat-square&label=Profile+Views)](https://github.com/Nagraj-13)
+[![GitHub followers](https://img.shields.io/github/followers/Nagraj-13?label=Followers&style=flat-square&color=00d4aa)](https://github.com/Nagraj-13?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Nagraj-13?label=Total+Stars&style=flat-square&color=00b4d8)](https://github.com/Nagraj-13)
 
 </div>
 
 ---
 
-### `$ cat about.json`
+## `$ cat about.md`
 
-Co-founder and CTO at [Cipherion](https://cipherion.in), building production-grade API security and encryption infrastructure. I design systems end-to-end — from cryptographic primitives to developer-facing SDKs and pixel-precise UIs — with a focus on clean architecture, minimal interfaces, and real-world durability.
-
-Currently shipping **Zentriq** (an AI memory system with graph + vector hybrid retrieval) and the **Cipherion** encryption API platform, while open-sourcing tools like **CTX** and **Kanso UI** to solve problems I hit every day.
+Software engineer and Co-Founder building production-grade fullstack and AI-integrated systems. I work across the entire stack — pixel-precise UIs to distributed backends — with a focus on developer tooling, AI agent infrastructure, and scalable cloud-native products. Currently leading engineering at Cipherion Pvt Ltd while shipping open-source tools used by other developers.
 
 ```bash
-$ cat profile.yaml
-───────────────────────────────────────────────────────
-ROLE      : Co-Founder & CTO @ Cipherion Pvt Ltd
-DOMAIN    : API Security · AI/LLM Infrastructure · Full Stack SaaS
-STACK     : Next.js · TypeScript · Python · Node.js · PostgreSQL · Redis
-BUILDING  : Cipherion (Encryption API) · Zentriq (AI Memory System)
-OPEN_TO   : SDE · AI Engineering · Founding Engineer roles
-LOCATION  : Belagavi, Karnataka, India
-───────────────────────────────────────────────────────
+{
+  "name"       : "Nagaraj Bhandare",
+  "role"       : "Co-Founder & CTO @ Cipherion Pvt Ltd",
+  "exp"        : "2+ years (Startups, Internships, Open Source)",
+  "domain"     : ["Fullstack Engineering", "AI/LLM Integration", "Developer Tooling", "Cloud Infrastructure"],
+  "stack"      : ["Next.js", "Node.js", "Python", "TypeScript", "AWS", "Docker", "PostgreSQL"],
+  "open_to"    : ["SWE Roles", "CTO / Tech Lead", "AI Engineer", "Fullstack Engineer"],
+  "location"   : "Belagavi, Karnataka, India",
+  "portfolio"  : "https://nr13.in"
+}
 ```
 
 ---
 
-### `$ ls tech_stack/`
+## `$ ls ./tech-stack/`
 
 **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,redux,vite,html&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,vite&perline=7" />
 </p>
 
 **Backend & APIs**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,py,graphql&perline=7" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,graphql,py&perline=7" />
 </p>
 
 **Databases & Storage**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,neo4j,prisma,mysql&perline=7" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,supabase,prisma,neo4j&perline=7" />
 </p>
 
-**Cloud, DevOps & Tooling**
+**Cloud, DevOps & Tools**
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,githubactions,vercel,git&perline=7" />
 </p>
 
 ---
 
-### `$ cat specializations.txt`
+## `$ cat specializations.md`
 
 <div align="center">
 
-![API Security](https://img.shields.io/badge/API%20Security-AES%20%7C%20HMAC%20%7C%20Field%20Encryption-D4A574?style=flat-square&labelColor=0d0d0d)
-![AI/LLM Infra](https://img.shields.io/badge/AI%20%2F%20LLM%20Infra-Vector%20DB%20%7C%20Graph%20RAG%20%7C%20Agents-D4A574?style=flat-square&labelColor=0d0d0d)
-![Developer Tools](https://img.shields.io/badge/Developer%20Tools-CLIs%20%7C%20SDKs%20%7C%20Component%20Libs-D4A574?style=flat-square&labelColor=0d0d0d)
-![Full Stack SaaS](https://img.shields.io/badge/Full%20Stack%20SaaS-Next.js%20%7C%20PostgreSQL%20%7C%20Docker-D4A574?style=flat-square&labelColor=0d0d0d)
-![Systems Design](https://img.shields.io/badge/Systems%20Design-Distributed%20Backends%20%7C%20Edge-D4A574?style=flat-square&labelColor=0d0d0d)
+![AI Agents](https://img.shields.io/badge/AI_Agents_%26_LLM_Integration-Expert-00d4aa?style=flat-square&logoColor=white)
+![Developer Tooling](https://img.shields.io/badge/Developer_Tooling_%26_CLIs-Advanced-00b4d8?style=flat-square&logoColor=white)
+![System Design](https://img.shields.io/badge/Distributed_Systems_%26_APIs-Advanced-7ee8d0?style=flat-square&logoColor=white)
+![React Ecosystem](https://img.shields.io/badge/React_Component_Libraries-Expert-00d4aa?style=flat-square&logoColor=white)
+![Cloud & DevOps](https://img.shields.io/badge/AWS_%26_Docker_Deployments-Intermediate-00b4d8?style=flat-square&logoColor=white)
 
 </div>
 
 ---
 
-### `$ cat expertise_table.md`
+## `$ cat expertise.md`
 
-| Domain | Proficiency | Highlights |
-|:---|:---:|:---|
-| **API Security & Encryption** | ▓▓▓▓▓▓▓▓▓░ Expert | AES/HMAC field encryption, cross-language cryptography, Cipherion SDK |
-| **AI / LLM Infrastructure** | ▓▓▓▓▓▓▓▓░░ Advanced | Qdrant, FalkorDB, BGE-M3 embeddings, RRF fusion, agent pipelines |
-| **Full Stack Development** | ▓▓▓▓▓▓▓▓▓░ Expert | Next.js 15, TypeScript, REST & GraphQL APIs, real-time systems |
-| **Developer Tooling** | ▓▓▓▓▓▓▓▓░░ Advanced | CLI tools (CTX, Flash), npm packages, component libraries (Kanso UI) |
-| **Cloud & DevOps** | ▓▓▓▓▓▓░░░░ Proficient | AWS, Docker, Kubernetes, CI/CD, Cloudflare Workers / R2 / Queues |
-| **Database Engineering** | ▓▓▓▓▓▓▓▓░░ Advanced | PostgreSQL, Redis, MongoDB, Supabase, multi-DB architectures |
+| Domain | Proficiency | Details |
+|---|---|---|
+| **Fullstack Engineering** | ████████████ Expert | Next.js App Router, REST/GraphQL APIs, Auth flows, real-time systems |
+| **AI / LLM Integration** | ██████████░░ Advanced | Agent architectures, context compilers, vector DBs, semantic pipelines |
+| **Developer Tooling** | ██████████░░ Advanced | NPM CLIs, scaffolding tools, semantic artifact systems, MCP servers |
+| **Backend Systems** | ██████████░░ Advanced | Node.js, Python (FastAPI/Flask), PostgreSQL, MongoDB, Redis, Prisma |
+| **Cloud & DevOps** | ████████░░░░ Intermediate | AWS (EC2, S3, SDK), Docker, Kubernetes, Nginx, GitHub Actions, Vercel |
+| **UI Systems & Design** | ██████████░░ Advanced | Tailwind, ShadCN, component libraries, accessible UI, design systems |
 
 ---
 
-### `$ ls -la ./projects/`
+## `$ ls ./projects/ --details`
 
 <details open>
-<summary><b>🔬 CTX — Semantic Context Compiler for AI Agents</b></summary>
+<summary><strong>🟢 CTX — Semantic Context Compiler for AI Agents</strong> &nbsp;<code>TypeScript · Node.js · LLM APIs</code></summary>
+
 <br/>
 
-> *Stop paying the token tax. Compile your codebase once. Pay almost nothing forever.*
+> Stop paying the token tax. Compile your codebase once. Pay almost nothing forever.
 
-| | |
-|:---|:---|
-| **Stack** | TypeScript · Node.js · npm CLI |
-| **What it does** | Compiles repos into structured semantic artifacts — AI agents (Claude Code, Cursor) understand large codebases with 93–99% fewer tokens |
-| **Scale** | Session startup drops from ~80,000 tokens → ~500; break-even after 5 sessions |
-| **My role** | Sole author — build engine, incremental compiler, 15-command CLI, D3 dashboard, MCP server |
+CTX is a local-first semantic context compilation system that transforms repositories into incrementally-maintained structured knowledge artifacts — so AI agents (Claude Code, Cursor, etc.) understand your codebase instantly with minimal tokens.
 
-[![Repo](https://img.shields.io/badge/GitHub-CTX-D4A574?style=flat-square&logo=github&labelColor=0d0d0d)](https://github.com/Nagraj-13/CTX)
-![TypeScript](https://img.shields.io/badge/TypeScript-73%25-D4A574?style=flat-square&labelColor=0d0d0d)
-![npm](https://img.shields.io/badge/npm-ctx--semantic-D4A574?style=flat-square&logo=npm&labelColor=0d0d0d)
+| Attribute | Detail |
+|---|---|
+| **Stack** | TypeScript, Node.js, LLM APIs (OpenAI/Groq/Ollama), D3.js (UI dashboard) |
+| **What it does** | Compiles repo semantics into `.ctx/` artifacts; resolves task-relevant 3-8K token context instead of 60K+ raw tokens |
+| **Key features** | Incremental builds, MCP server integration, visual dashboard, multi-language support |
+| **Impact** | 93–99% token reduction per session; break-even after ~5 uses vs raw file scanning |
+| **Contribution** | Solo-built — architecture, CLI, semantic compiler, LLM pipeline, web dashboard |
+
+[![CTX Repo](https://img.shields.io/badge/View_Repo-CTX-00d4aa?style=flat-square&logo=github)](https://github.com/Nagraj-13/CTX)
 
 </details>
 
 <details>
-<summary><b>🎨 Kanso UI — Zen-Inspired React Component Library</b></summary>
+<summary><strong>🟢 Kanso UI — Open-Source React Component Library</strong> &nbsp;<code>Next.js · TypeScript · Tailwind</code></summary>
+
 <br/>
 
-> *Simplicity, Engineered. — Inspired by the Japanese principle of Kanso (簡素)*
+> Simplicity, Engineered. Inspired by Japanese Zen aesthetics (簡素).
 
-| | |
-|:---|:---|
-| **Stack** | Next.js · TypeScript · Tailwind CSS · shadcn/ui · Base UI · Vitest |
-| **What it does** | Open-source design system with 55+ copy-paste React components, live previews, accessible primitives, component registry API, and dark mode |
-| **Scale** | 2 stars · 2 forks · v0.1.0 released · live at kanso-ui.nr13.in |
-| **My role** | Creator — design system architecture, component registry, docs infrastructure, testing setup |
+A modern open-source React component library and design system with copy-paste components, live previews, and an API registry endpoint — inspired by shadcn/ui but with a distinct minimal philosophy.
 
-[![Repo](https://img.shields.io/badge/GitHub-Kanso--UI-D4A574?style=flat-square&logo=github&labelColor=0d0d0d)](https://github.com/Nagraj-13/Kanso-UI)
-[![Live](https://img.shields.io/badge/Live-kanso--ui.nr13.in-D4A574?style=flat-square&logo=vercel&labelColor=0d0d0d)](https://kanso-ui.nr13.in)
-![TypeScript](https://img.shields.io/badge/TypeScript-99%25-D4A574?style=flat-square&labelColor=0d0d0d)
+| Attribute | Detail |
+|---|---|
+| **Stack** | Next.js 15, TypeScript, Tailwind CSS, Base UI, Vitest |
+| **What it does** | Provides beautifully crafted, accessible, production-ready React components via copy-paste workflow |
+| **Key features** | 55+ primitives, component registry API (`/api/registry/[name]`), dark mode, animated demos |
+| **Impact** | 2 GitHub stars, 2 forks; actively maintained with v0.1.0 release |
+| **Contribution** | Solo-built — architecture, component design, registry system, documentation |
+
+[![Kanso UI Repo](https://img.shields.io/badge/View_Repo-Kanso_UI-00d4aa?style=flat-square&logo=github)](https://github.com/Nagraj-13/Kanso-UI)
+[![Live](https://img.shields.io/badge/Live_Site-kanso--ui.nr13.in-00b4d8?style=flat-square&logo=vercel)](https://kanso-ui.nr13.in)
 
 </details>
 
 <details>
-<summary><b>🔁 RESTClient — Open-Source Postman Alternative</b></summary>
+<summary><strong>🟢 RESTClient — Open-Source Postman Alternative</strong> &nbsp;<code>Next.js · Prisma · PostgreSQL · Zustand</code></summary>
+
 <br/>
 
-| | |
-|:---|:---|
-| **Stack** | Next.js 15 · TypeScript · Prisma · PostgreSQL · Zustand · TanStack Query · Monaco Editor · Docker |
-| **What it does** | Full-featured API testing tool with REST client, WebSocket client (ws/wss), workspace collaboration, role-based access, and real-time response metrics |
-| **My role** | Sole author — full-stack architecture, real-time WebSocket infra, team workspace system, Monaco editor integration |
+A modern, feature-rich Postman alternative with REST API testing, WebSocket client, team workspaces, and Monaco editor — built with Next.js 15 and real-time collaboration.
 
-[![Repo](https://img.shields.io/badge/GitHub-RESTClient-D4A574?style=flat-square&logo=github&labelColor=0d0d0d)](https://github.com/Nagraj-13/RESTClient)
-![TypeScript](https://img.shields.io/badge/TypeScript-98.6%25-D4A574?style=flat-square&labelColor=0d0d0d)
+| Attribute | Detail |
+|---|---|
+| **Stack** | Next.js 15, TypeScript, Prisma, PostgreSQL, TanStack Query, Zustand, Monaco Editor |
+| **What it does** | Full API testing client with request collections, WebSocket support, and team workspace collaboration |
+| **Key features** | HTTP methods, response viewer, WebSocket real-time messaging, role-based workspaces, invite links |
+| **Contribution** | Solo-built — full-stack architecture, auth, workspace system, Monaco integration |
+
+[![RESTClient Repo](https://img.shields.io/badge/View_Repo-RESTClient-00d4aa?style=flat-square&logo=github)](https://github.com/Nagraj-13/RESTClient)
 
 </details>
 
 <details>
-<summary><b>🔬 MiniGit — Git Reimplementation in Pure Python</b></summary>
+<summary><strong>🟡 Flash CLI — React Project Scaffolding Tool</strong> &nbsp;<code>Node.js · npm CLI</code></summary>
+
 <br/>
 
-| | |
-|:---|:---|
-| **Stack** | Python 3.10+ · Standard library only · 38 automated tests |
-| **What it does** | Educational Git clone — content-addressable object store, SHA-1 hashing, symbolic refs, branching, checkout, diff, log, and garbage collection |
-| **My role** | Sole author — zero external dependencies, cross-platform, full test suite, installable via pip |
+Fast project scaffolding CLI for React apps — pre-configured with Tailwind, ShadCN, Redux, and React Router. Available on npm as `flash_create`.
 
-[![Repo](https://img.shields.io/badge/GitHub-MiniGit-D4A574?style=flat-square&logo=github&labelColor=0d0d0d)](https://github.com/Nagraj-13/MiniGit)
-![Python](https://img.shields.io/badge/Python-100%25-D4A574?style=flat-square&labelColor=0d0d0d)
+| Attribute | Detail |
+|---|---|
+| **Stack** | Node.js, npm CLI |
+| **What it does** | Scaffolds production-ready React projects with full toolchain in seconds via `npx flash_create my-app` |
+| **Key features** | TypeScript & JavaScript templates, auto dependency installation, auto dev server start |
+| **Contribution** | Solo-built — CLI engine, template system, npm publishing |
+
+[![Flash Repo](https://img.shields.io/badge/View_Repo-Flash_CLI-00d4aa?style=flat-square&logo=github)](https://github.com/Nagraj-13/Flash)
+[![npm](https://img.shields.io/badge/npm-flash__create-CB3837?style=flat-square&logo=npm)](https://www.npmjs.com/package/flash_create)
 
 </details>
 
 <details>
-<summary><b>🌐 SocialConnect — Full-Stack Social Media Platform</b></summary>
+<summary><strong>🟡 MiniGit — Git Reimplementation in Python</strong> &nbsp;<code>Python · Systems Programming</code></summary>
+
 <br/>
 
-| | |
-|:---|:---|
-| **Stack** | Next.js · TypeScript · Prisma · Supabase · JWT · Tailwind CSS |
-| **What it does** | Social platform with personalized feeds, real-time notifications (Supabase Realtime), follow/like/comment, admin panel, email verification, and role-based access |
-| **My role** | Sole author — full REST API surface, real-time notification infra, admin management dashboard, deployed to Vercel |
+A minimal, educational reimplementation of core Git internals in pure Python — no external dependencies. Implements 11 commands including branching, checkout, garbage collection, and a `.minigitignore` system.
 
-[![Repo](https://img.shields.io/badge/GitHub-SocialConnect-D4A574?style=flat-square&logo=github&labelColor=0d0d0d)](https://github.com/Nagraj-13/SocialConnect)
-[![Live](https://img.shields.io/badge/Live-Demo-D4A574?style=flat-square&logo=vercel&labelColor=0d0d0d)](https://social-connect-orpin-nine.vercel.app)
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python 3.10+ (stdlib only) |
+| **What it does** | Implements init, add, commit, status, diff, log, branch, checkout, gc, cat-file, hash-object |
+| **Key features** | Content-addressable SHA-1 object store, symbolic refs, zlib compression, 38 automated tests |
+| **Contribution** | Solo-built — object model, index manager, branch manager, full CLI |
+
+[![MiniGit Repo](https://img.shields.io/badge/View_Repo-MiniGit-00d4aa?style=flat-square&logo=github)](https://github.com/Nagraj-13/MiniGit)
 
 </details>
 
 <details>
-<summary><b>⚡ Flash CLI — React Project Scaffolding Tool</b></summary>
+<summary><strong>🟡 CognitLaw — AI Legal Assistant Platform</strong> &nbsp;<code>Django · Python · JavaScript</code></summary>
+
 <br/>
 
-| | |
-|:---|:---|
-| **Stack** | Node.js · npm (published as `flash_create`) |
-| **What it does** | Zero-friction CLI scaffolding for React — generates projects pre-configured with Tailwind, Redux, shadcn/ui, React Router in seconds; supports TS and JS templates |
-| **My role** | Sole author — npm package, template system, auto-dependency install, published on npm |
+An AI-powered legal assistance platform with a chatbot (Lawbot) for Indian law queries, built with Django backend and React frontend.
 
-[![Repo](https://img.shields.io/badge/GitHub-Flash-D4A574?style=flat-square&logo=github&labelColor=0d0d0d)](https://github.com/Nagraj-13/Flash)
-![npm](https://img.shields.io/badge/npm-flash__create-D4A574?style=flat-square&logo=npm&labelColor=0d0d0d)
+| Attribute | Detail |
+|---|---|
+| **Stack** | Django, Python, JavaScript, React |
+| **What it does** | Provides AI-powered legal Q&A, case summarization, and law navigation for Indian legal system |
+| **Key features** | Lawbot AI assistant, web interface, Django REST backend |
+| **Contribution** | Full-stack — Django backend, Lawbot integration, frontend |
 
-</details>
-
-<details>
-<summary><b>⚖️ CognitLaw — AI-Powered Legal Assistant</b></summary>
-<br/>
-
-| | |
-|:---|:---|
-| **Stack** | Python · Django · JavaScript · React |
-| **What it does** | AI chatbot for legal queries with a Lawbot assistant and web interface; community interest demonstrated by 3 forks |
-| **My role** | Sole author — Django backend, AI integration, frontend interface |
-
-[![Repo](https://img.shields.io/badge/GitHub-CognitLaw-D4A574?style=flat-square&logo=github&labelColor=0d0d0d)](https://github.com/Nagraj-13/CognitLaw)
-![Forks](https://img.shields.io/badge/Forks-3-D4A574?style=flat-square&logo=github&labelColor=0d0d0d)
+[![CognitLaw Repo](https://img.shields.io/badge/View_Repo-CognitLaw-00d4aa?style=flat-square&logo=github)](https://github.com/Nagraj-13/CognitLaw)
 
 </details>
 
 ---
 
-### `$ cat experience.log`
+## `$ cat experience.log`
 
-**🔐 Cipherion Pvt Ltd** &nbsp;·&nbsp; Co-Founder & CTO &nbsp;·&nbsp; `2025 — Present` &nbsp;·&nbsp; Belagavi, India
+```
+──────────────────────────────────────────────────────────────────────
+ Jun 2025 → Present  |  Co-Founder & CTO  |  Cipherion Pvt Ltd  📍 Belagavi
+──────────────────────────────────────────────────────────────────────
+```
+- Co-founded and lead engineering for Cipherion Pvt Ltd, overseeing full product architecture and technical direction
+- Building AI-driven products using Next.js, Node.js, Python, and cloud infrastructure from 0 → production
+- Defining engineering culture, system design decisions, and deployment pipelines for the company
+- Exploring LLM integrations, agent-based architectures, and semantic tooling (CTX, Kanso UI)
+- Driving open-source efforts alongside product development
 
-- Architected and shipped production-grade field-level encryption APIs (AES/HMAC) with cross-language SDK support covering JavaScript edge cases, null/NaN/bool passthrough, and glob-pattern field exclusions
-- Designed and deployed **Zentriq**, an AI memory system using FalkorDB (graph retrieval), Qdrant (vector search), BGE-M3 embeddings, Redis, and a dual-pipeline architecture with Reciprocal Rank Fusion
-- Built the full Cipherion Admin Dashboard, MDX documentation site (fumadocs), billing infrastructure supporting three pricing tiers, field counting logic, and overage management
-- Managed and mentored a team of interns shipping production features; wrote formal recommendation letters and designed the B.Tech security workshop curriculum (SQL injection, XSS, CORS, CSRF, JWT attacks, OAuth 2.0)
-
-`#TypeScript` `#Python` `#Next.js` `#PostgreSQL` `#Redis` `#Qdrant` `#FalkorDB` `#Docker` `#AES` `#API-Security` `#Cloudflare`
+`#Next.js` `#Node.js` `#Python` `#AWS` `#LLM` `#System-Design` `#CTO` `#Startup`
 
 ---
 
-### `$ cat achievements.md`
+```
+──────────────────────────────────────────────────────────────────────
+ Feb 2025 → Jun 2025  |  Node.js Developer Intern  |  Parking Sthal  📍 Remote
+──────────────────────────────────────────────────────────────────────
+```
+- Built and maintained scalable REST APIs using Node.js and Express for a real-world parking platform
+- Designed database schemas and developed authentication flows, payment handling, and booking workflows
+- Integrated real-time parking availability APIs and collaborated with frontend and mobile teams
+- Deployed code in live environments using MongoDB, AWS SDK, Git, and Postman
+
+`#Node.js` `#Express` `#MongoDB` `#REST-APIs` `#AWS` `#Auth` `#Payments`
+
+---
+
+```
+──────────────────────────────────────────────────────────────────────
+ Nov 2024 → Feb 2025  |  Software Developer Intern  |  Pranaksh Technologies  📍 Belagavi (Remote)
+──────────────────────────────────────────────────────────────────────
+```
+- Developed real-world product features including filtered PDF data export using jsPDF + jsPDF-AutoTable
+- Built frontend with ShadCN UI, Tailwind CSS, and React.js for a production SaaS product
+- Implemented bulk data insertion in PostgreSQL to enhance data management efficiency
+- Collaborated with team using GitHub for version control and agile workflows
+
+`#React.js` `#ShadCN` `#Tailwind` `#PostgreSQL` `#jsPDF` `#Agile`
+
+---
+
+## `$ cat achievements.md`
 
 <div align="center">
 
 | Achievement | Details |
-|:---|:---|
-| 🚀 **CTO at a 2025 Startup** | Co-founded Cipherion Pvt Ltd; leading full product and engineering org |
-| 📦 **npm Published Package** | `flash_create` — zero-config React scaffolding CLI, available via npx |
-| 🌐 **3 Live Products** | Kanso UI · SocialConnect · Cipherion deployed to production |
-| 🤖 **93–99% Token Reduction** | CTX compiler cuts AI coding agent token usage from 80K → 500 per session |
-| 🔐 **Production Cryptography** | AES field-level encryption shipped cross-language with full edge-case coverage |
-| 🍴 **3 Forks on CognitLaw** | Community adoption of AI-powered legal assistant project |
-| 📚 **Technical Mentor** | Instructor for B.Tech web security & full-stack development workshops |
+|---|---|
+| 🏢 **Co-Founded a Startup** | Launched Cipherion Pvt Ltd as CTO — building AI products from scratch |
+| 📦 **Published npm Package** | `flash_create` CLI available on npm for React scaffolding |
+| 🌐 **Live Production App** | Kanso UI deployed at `kanso-ui.nr13.in` with v0.1.0 release |
+| 🤖 **Built AI Tooling** | CTX reduces AI coding session token costs by 93–99% |
+| 🔧 **Open Source Contributor** | Maintainer of 7+ public GitHub repositories across TypeScript, Python, JS |
+| 💡 **Shipped End-to-End Products** | From CLIs to AI agents to component libraries — solo and team-led |
 
 </div>
 
 ---
 
-### `$ cat education.sh`
+## `$ cat education.md`
 
 <div align="center">
 
-![Education](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-D4A574?style=for-the-badge&logo=googlescholar&logoColor=0d0d0d&labelColor=0d0d0d)
+![Education](https://img.shields.io/badge/B.E._Computer_Science_&_Engineering-Jain_College_of_Engineering_and_Research,_Belagavi-00d4aa?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 </div>
 
 ---
 
-### `$ cat github_analytics.sh`
+## `$ cat certifications.md`
+
+> No certifications listed.
+
+---
+
+## `$ cat stats.md`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nagraj-13&show_icons=true&hide_border=true&bg_color=0d0d0d&text_color=E2E8F0&icon_color=D4A574&title_color=D4A574&ring_color=D4A574&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=Nagraj-13&hide_border=true&background=0d0d0d&ring=D4A574&fire=D4A574&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=D4A574&sideLabels=D4A574&dates=6B7280" width="49%"/>
+![Nagaraj's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Nagraj-13&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00d4aa&icon_color=00b4d8&text_color=7ee8d0&bg_color=0a0e1a)
 
-<br/>
+![Streak Stats](https://streak-stats.demolab.com/?user=Nagraj-13&theme=dark&hide_border=true&ring=00d4aa&fire=00b4d8&currStreakLabel=7ee8d0&background=0a0e1a&sideLabels=00d4aa&dates=7ee8d0)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nagraj-13&layout=compact&hide_border=true&bg_color=0d0d0d&text_color=E2E8F0&title_color=D4A574&langs_count=8&count_private=true" width="42%"/>
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Nagraj-13&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00d4aa&text_color=7ee8d0&bg_color=0a0e1a)
 
 </div>
 
 ---
 
-### `$ cat trophies.sh`
+## `$ cat trophies.md`
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Nagraj-13&theme=monokai&no-frame=true&no-bg=true&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Nagraj-13&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=7&title_color=00d4aa)
 
 </div>
 
 ---
 
-### `$ cat activity_graph.sh`
+## `$ cat activity-graph.md`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nagraj-13&bg_color=0d0d0d&color=D4A574&line=D4A574&point=E2E8F0&hide_border=true&area=true&area_color=D4A574&radius=4" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nagraj-13&theme=react-dark&hide_border=true&area=true&radius=4&bg_color=0a0e1a&color=00d4aa&line=00d4aa&point=7ee8d0" width="95%"/>
 
 </div>
 
 ---
 
-### `$ cat summary_cards.sh`
+## `$ cat summary-cards.md`
 
 <div align="center">
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nagraj-13&theme=nord_dark)](https://github.com/Nagraj-13)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nagraj-13&theme=github_dark)
 
-<br/>
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nagraj-13&theme=nord_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nagraj-13&theme=nord_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nagraj-13&theme=nord_dark&utcOffset=5.5" width="32%"/>
+<div align="center">
+
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nagraj-13&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nagraj-13&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nagraj-13&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nagraj-13&theme=github_dark&utcOffset=5.5)
 
 </div>
 
 ---
 
-### `$ cat snake.sh`
+## `$ cat contribution-snake.md`
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nagraj-13/Nagraj-13/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nagraj-13/Nagraj-13/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Nagraj-13/Nagraj-13/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Nagraj-13/Nagraj-13/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </picture>
 
 </div>
 
 ---
 
-### `$ cat current_focus.yaml`
+## `$ cat current-focus.yaml`
 
 ```yaml
-# ~/current_focus.yaml — last updated June 2026
-building:
-  cipherion: "Production API security SaaS — encryption SDK, admin dashboard, billing infra"
-  zentriq:   "AI memory system — FalkorDB (graph) + Qdrant (vector) + BGE-M3 + Redis + Cloudflare"
-  kanso_ui:  "Expanding component registry and v0.2.x CLI tooling"
+current_focus:
+  building:
+    - "CTX — semantic context compiler for AI coding agents (v1 CLI + MCP server)"
+    - "Kanso UI — expanding component registry with advanced animated primitives"
+    - "Cipherion — shipping AI-integrated products at startup scale"
 
-exploring:
-  - "Agent-based architectures & multi-step LLM orchestration pipelines"
-  - "Graph + vector hybrid retrieval (RRF fusion strategies)"
-  - "Cloudflare Workers / Queues / R2 for low-latency distributed APIs"
-  - "Async Python patterns for production graph DB clients"
+  learning:
+    - "Agent-based architectures and multi-agent orchestration"
+    - "Vector databases and semantic search pipelines"
+    - "Advanced distributed systems and system design patterns"
 
-open_to:
-  - role: "SDE / Full-Stack Engineer"
-    notes: "Product-focused startups, strong engineering culture"
-  - role: "AI / LLM Infrastructure Engineer"
-    notes: "Vector DB, agent pipelines, memory systems"
-  - role: "Founding Engineer"
-    notes: "Early-stage, high ownership, ship fast"
-  location: "Remote · Open to relocation"
+  exploring:
+    - "LLM fine-tuning and prompt engineering for code generation"
+    - "Rust for systems programming tooling"
+
+  open_to:
+    - "Software Engineer (Fullstack / Backend)"
+    - "AI Engineer / LLM Integration roles"
+    - "CTO / Tech Lead at early-stage startups"
+    - "Open Source collaboration"
 ```
 
 ---
 
-### `$ cat connect.sh && shutdown -h`
+## `$ cat connect.md`
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/nr13.in-Portfolio-D4A574?style=for-the-badge&logo=vercel&logoColor=0d0d0d&labelColor=0d0d0d)](https://nr13.in)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-nagaraj--bhandare-D4A574?style=for-the-badge&logo=linkedin&logoColor=0d0d0d&labelColor=0d0d0d)](https://linkedin.com/in/nagaraj-bhandare-b4145b25a)
-[![Gmail](https://img.shields.io/badge/Gmail-nagrajy131200350-D4A574?style=for-the-badge&logo=gmail&logoColor=0d0d0d&labelColor=0d0d0d)](mailto:nagrajy131200350@gmail.com)
-[![X](https://img.shields.io/badge/X-_nagraj__13-D4A574?style=for-the-badge&logo=x&logoColor=0d0d0d&labelColor=0d0d0d)](https://x.com/_nagraj_13)
-[![Instagram](https://img.shields.io/badge/Instagram-_nagraj__13__-D4A574?style=for-the-badge&logo=instagram&logoColor=0d0d0d&labelColor=0d0d0d)](https://instagram.com/_nagraj_13_)
-[![Kanso UI](https://img.shields.io/badge/Kanso%20UI-Live%20Design%20System-D4A574?style=for-the-badge&logo=react&logoColor=0d0d0d&labelColor=0d0d0d)](https://kanso-ui.nr13.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nr13.in-00d4aa?style=for-the-badge&logo=vercel&logoColor=white)](https://nr13.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nagaraj_Bhandare-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagaraj-bhandare-b4145b25a)
+[![Email](https://img.shields.io/badge/Email-nagrajy131200350%40gmail.com-00d4aa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagrajy131200350@gmail.com)
+[![X](https://img.shields.io/badge/X-@_nagraj_13-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_nagraj_13)
+[![Instagram](https://img.shields.io/badge/Instagram-@_nagraj_13_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_nagraj_13_)
+[![GitHub](https://img.shields.io/badge/GitHub-@Nagraj--13-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nagraj-13)
+[![Kanso UI](https://img.shields.io/badge/Kanso_UI-kanso--ui.nr13.in-00b4d8?style=for-the-badge&logo=react&logoColor=white)](https://kanso-ui.nr13.in)
 
 <br/>
 
-*"Build systems that last. Ship tools that matter. Write code others can read."*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:16130e,100:0d0d0d&height=50&section=footer" width="100%"/>
+> *"The best code is the code that solves the problem — not the code that looks clever."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4aa,50:00b4d8,100:0a0e1a&height=6&section=footer" width="100%"/>
