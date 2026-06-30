@@ -10,7 +10,7 @@
 
 <div align="center">
 
-![Degree](https://img.shields.io/badge/B.E._Computer_Science-KLE_Tech_University-00d4aa?style=flat-square&logo=graduation-cap&logoColor=white)
+![Degree](https://img.shields.io/badge/B.E._Computer_Science_&_Engineering_Jain_College_of_Engineering_and_Research-00d4aa?style=flat-square&logo=graduation-cap&logoColor=white)
 ![Location](https://img.shields.io/badge/📍_Belagavi,_Karnataka-India-00b4d8?style=flat-square)
 ![Experience](https://img.shields.io/badge/Experience-2+_Years-7ee8d0?style=flat-square&logo=clockify&logoColor=white)
 
@@ -295,7 +295,7 @@ An AI-powered legal assistance platform with a chatbot (Lawbot) for Indian law q
 
 <div align="center">
 
-![Education](https://img.shields.io/badge/B.E._Computer_Science_&_Engineering-KLE_Technological_University,_Belagavi-00d4aa?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Education](https://img.shields.io/badge/B.E._Computer_Science_&_Engineering-Jain_College_of_Engineering_and_Research,_Belagavi-00d4aa?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 </div>
 
