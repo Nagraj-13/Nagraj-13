@@ -404,6 +404,7 @@ current_focus:
     - "Open Source collaboration"
 ```
 
+
 ---
 
 ## `$ cat connect.md`
