@@ -100,7 +100,7 @@ Software engineer and Co-Founder building production-grade fullstack and AI-inte
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| **Fullstack Engineering** | ████████████ Expert | Next.js App Router, REST/GraphQL APIs, Auth flows, real-time systems |
+| **Fullstack Engineering** | ████████████ Expert | Next.js App Router, REST/GraphQL/gRPC APIs, Auth flows, real-time systems |
 | **AI / LLM Integration** | ██████████░░ Advanced | Agent architectures, context compilers, vector DBs, semantic pipelines |
 | **Developer Tooling** | ██████████░░ Advanced | NPM CLIs, scaffolding tools, semantic artifact systems, MCP servers |
 | **Backend Systems** | ██████████░░ Advanced | Node.js, Python (FastAPI/Flask), PostgreSQL, MongoDB, Redis, Prisma |
