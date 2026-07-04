@@ -221,7 +221,7 @@ An AI-powered legal assistance platform with a chatbot (Lawbot) for Indian law q
 | **Stack** | Django, Python, JavaScript, React |
 | **What it does** | Provides AI-powered legal Q&A, case summarization, and law navigation for Indian legal system |
 | **Key features** | Lawbot AI assistant, web interface, Django REST backend |
-| **Contribution** | Full-stack — Django backend, Lawbot integration, frontend |
+| **Contribution** | Full-stack — Fastapi, Node Js, React js , MongoDB, Lawbot integration, frontend |
 
 [![CognitLaw Repo](https://img.shields.io/badge/View_Repo-CognitLaw-00d4aa?style=flat-square&logo=github)](https://github.com/Nagraj-13/CognitLaw)
 
