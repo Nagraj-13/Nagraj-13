@@ -218,7 +218,7 @@ An AI-powered legal assistance platform with a chatbot (Lawbot) for Indian law q
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Django, Python, JavaScript, React |
+| **Stack** | Fastapi, Python, Node Js Express Js, JavaScript, React Js, MongoDB |
 | **What it does** | Provides AI-powered legal Q&A, case summarization, and law navigation for Indian legal system |
 | **Key features** | Lawbot AI assistant, web interface, Django REST backend |
 | **Contribution** | Full-stack — Fastapi, Node Js, React js , MongoDB, Lawbot integration, frontend |
