@@ -42,12 +42,12 @@
 
 ## `$ cat about.md`
 
-Software engineer and Co-Founder building production-grade fullstack and AI-integrated systems. I work across the entire stack — pixel-precise UIs to distributed backends — with a focus on developer tooling, AI agent infrastructure, and scalable cloud-native products. Currently leading engineering at Cipherion Pvt Ltd while shipping open-source tools used by other developers.
+Software engineer and Co-Founder building production-grade fullstack and AI-integrated systems. I work across the entire stack — pixel-precise UIs to distributed backends — with a focus on developer tooling, AI agent infrastructure, and scalable cloud-native products. Currently leading engineering at K3NP Cipherion Pvt Ltd while shipping open-source tools used by other developers.
 
 ```bash
 {
   "name"       : "Nagaraj Bhandare",
-  "role"       : "Co-Founder & CTO @ Cipherion Pvt Ltd",
+  "role"       : "Co-Founder & CTO @ K3NP Cipherion Pvt Ltd",
   "exp"        : "2+ years (Startups, Internships, Open Source)",
   "domain"     : ["Fullstack Engineering", "AI/LLM Integration", "Developer Tooling", "Cloud Infrastructure"],
   "stack"      : ["Next.js", "Node.js", "Python", "TypeScript", "AWS", "Docker", "PostgreSQL"],
@@ -237,7 +237,7 @@ An AI-powered legal assistance platform with a chatbot (Lawbot) for Indian law q
  Jun 2025 → Present  |  Co-Founder & CTO  |  Cipherion Pvt Ltd  📍 Belagavi
 ──────────────────────────────────────────────────────────────────────
 ```
-- Co-founded and lead engineering for Cipherion Pvt Ltd, overseeing full product architecture and technical direction
+- Co-founded and lead engineering for K3NP Cipherion Pvt Ltd, overseeing full product architecture and technical direction
 - Building AI-driven products using Next.js, Node.js, Python, and cloud infrastructure from 0 → production
 - Defining engineering culture, system design decisions, and deployment pipelines for the company
 - Exploring LLM integrations, agent-based architectures, and semantic tooling (CTX, Kanso UI)
