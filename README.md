@@ -56,7 +56,6 @@ Software engineer and Co-Founder building production-grade fullstack and AI-inte
   "portfolio"  : "https://nr13.in"
 }
 ```
-
 ---
 
 ## `$ ls ./tech-stack/`
