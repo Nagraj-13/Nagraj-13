@@ -313,8 +313,7 @@ An AI-powered legal assistance platform with a chatbot (Lawbot) for Indian law q
 
 ![Nagaraj's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Nagraj-13&theme=dark&hide_border=true&include_all_commits=true&count_private=true&title_color=00d4aa&icon_color=00b4d8&text_color=7ee8d0&bg_color=0a0e1a)
 
-![Streak Stats](https://streak-stats.demolab.com/?user=Nagraj-13&theme=dark&hide_border=true&ring=00d4aa&fire=00b4d8&currStreakLabel=7ee8d0&background=0a0e1a&sideLabels=00d4aa&dates=7ee8d0)
-![](https://streak-stats.demolab.com/?user=Nagraj-13&theme=radical&hide_border=true)<br/>
+![Streak Stats](https://streak-stats.demolab.com/?user=Nagraj-13&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Nagraj-13&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00d4aa&text_color=7ee8d0&bg_color=0a0e1a)
 
