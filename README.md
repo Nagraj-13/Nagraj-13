@@ -325,7 +325,7 @@ An AI-powered legal assistance platform with a chatbot (Lawbot) for Indian law q
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Nagraj-13&theme=darkhub&no-frame=true&no-bg=false&margin-w=6&column=7&title_color=00d4aa)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Nagraj-13&theme=darkhub)
 
 </div>
 
