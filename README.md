@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0d1b2a,100:00d4aa&height=160&section=header&text=Nagaraj%20Bhandare&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=50&desc=Co-Founder%20and%20CTO%20%7C%20Fullstack%20and%20AI%20Engineer&descSize=18&descAlign=50&descAlignY=76&descColor=00d4aa" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=%24+whoami+--+Co-Founder+%40+Cipherion+Pvt+Ltd;%24+stack+--+Next.js+%7C+Node.js+%7C+Python+%7C+AWS;%24+building+--+CTX%2C+Kanso+UI%2C+RESTClient;%24+domain+--+AI+Agents+%7C+Fullstack+%7C+DevTools;%24+open_to+--+SWE+%7C+CTO+%7C+AI+Engineer+roles)](https://nr13.in)
